@@ -5,7 +5,7 @@ A react native app for showcasing client products and generating discount coupon
 Note that gulaNative is under development and not yet feature complete.
 
 The latest source code is available at
-[https://github.com/devsbranch/gula](https://github.com/devsbranch/gula-native.git).
+[https://github.com/devsbranch/gula-native](https://github.com/devsbranch/gula-native.git).
 
 ## Key features
 
