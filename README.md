@@ -56,4 +56,5 @@ If you find any problems, please [open an issue](https://github.com/devsbranch/g
 Thank you to the individual contributors who have helped to build gula:
 
 * Alison Mukoma (Lead developer): alison@devsbranch.com
-* Jose Machava
+* Kudakwashe Sisiva: Ksiziva@gmail.com
+* Jose Machava: jose.s.machava@gmail.com
