@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Gula Native Application",
+    "description": "OS version of Gula Native Application",
+    "slug": "react-native-starter-lite",
+    "githubUrl": "https://github.com/devsbranch/gula-native",
+    "primaryColor": "#555CC4",
+    "privacy": "public",
+    "sdkVersion": "30.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.3",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "assetBundlePatterns": [
+      "assets/**/**"
+    ],
+    "splash": {
+      "image": "./assets/images/background.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.gulanative.lite"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "android": {
+      "package": "com.gulanative.lite",
+      "versionCode": 2,
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gulanative.lite"
+    }
+  }
+}
